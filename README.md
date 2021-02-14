@@ -1,6 +1,6 @@
 # ExceltoJSON
 Converts Excel file containing json data into a JSON file
-# Excel Format
+## Excel Format
 Each key will be in the First Column
 <table style="width:100%">
   <tr>
