@@ -9,17 +9,15 @@ Each key will be in the First Column
   </tr>
   <tr>
     <td>key1</td>
-    <td>Smith</td>
-    <td>50</td>
+    <td>value1</td>
+    <td>value2</td>
   </tr>
   <tr>
     <td>key2</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td>value1</td>
   </tr>
   <tr>
     <td>key3</td>
-    <td>liber</td>
-    <td>21</td>
+    <td>value1</td>
   </tr>
 </table>
