@@ -18,9 +18,9 @@ Each key will be in the First Column, and each value data will be in the succeed
   <tr>
     <td>key3</td>
     <td>value1</td>
-    <td>value2</td>
   </tr>
 </table>
+JSON format= {"key1":"value1","key2":"value1","key3":"value1"}
 
 What if the value is a list? <br>
 Here we are adding a separator in the py code, that tells the program that this key is an exception! <br>
