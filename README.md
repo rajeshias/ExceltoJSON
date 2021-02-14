@@ -8,13 +8,18 @@ Each key will be in the First Column
     <th>values</th>
   </tr>
   <tr>
-    <td>Jill</td>
+    <td>key1</td>
     <td>Smith</td>
     <td>50</td>
   </tr>
   <tr>
-    <td>Eve</td>
+    <td>key2</td>
     <td>Jackson</td>
     <td>94</td>
+  </tr>
+  <tr>
+    <td>key3</td>
+    <td>liber</td>
+    <td>21</td>
   </tr>
 </table>
