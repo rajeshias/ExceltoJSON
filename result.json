@@ -1,0 +1,26 @@
+{
+    "applicableValidationTypes": [
+        "interview",
+        "onlinetest"
+    ],
+    "certificationDetails": [
+        {
+            "name": "",
+            "provider": "",
+            "score": 0
+        }
+    ],
+    "createdAt": 1608450259,
+    "iconlink": "S3 link",
+    "id": "2b31a2d0-4297-11eb-9f44-162802b24531",
+    "onlineTestDetails": [],
+    "parentId": "",
+    "scoreToVerify": 5,
+    "searchSkillName": "logistic regression",
+    "skillName": "Logistic Regression",
+    "status": "ACTIVE",
+    "testimonialsAccepted": 0,
+    "type": "Tech",
+    "updatedAt": 1608450259,
+    "validationRequired": true
+}

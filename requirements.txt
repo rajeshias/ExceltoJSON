@@ -1,0 +1,5 @@
+numpy==1.19.5+vanilla
+python-dateutil==2.7.5
+six==1.15.0
+pytz==2021.1
+pandas==1.2.2
