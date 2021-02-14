@@ -105,3 +105,12 @@ JSON format = { "key1":"value1" , "key2":["value1", "value2", "value3"] , "key3"
 ## <u>note:</u>
 notice how 3027 is not a string format<br>
 Values will be unchanged, As excel supports int, str, and bool. The same DataType will be in JSON
+
+
+# REQUIREMENTS:
+
+Pandas
+json
+
+more details in requirements.txt
+
