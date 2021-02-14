@@ -1,7 +1,7 @@
 # ExceltoJSON
 Converts Excel file containing json data into a JSON file
 ## Excel Format
-Each key will be in the First Column
+Each key will be in the First Column, and each value data will be in the succeeding columns
 <table style="width:100%">
   <tr>
     <th>keys</th>
@@ -10,7 +10,6 @@ Each key will be in the First Column
   <tr>
     <td>key1</td>
     <td>value1</td>
-    <td>value2</td>
   </tr>
   <tr>
     <td>key2</td>
