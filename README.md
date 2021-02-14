@@ -109,8 +109,8 @@ Values will be unchanged, As excel supports int, str, and bool. The same DataTyp
 
 # REQUIREMENTS:
 
-Pandas
-json
+<li>Pandas</li>
+<li>json</li>
 
 more details in requirements.txt
 
