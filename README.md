@@ -22,7 +22,7 @@ Each key will be in the First Column, and each value data will be in the succeed
 </table>
 JSON format= {"key1":"value1","key2":"value1","key3":"value1"}
 
-What if the value is a list? <br>
+### What if the value is a list? <br>
 Here we are adding a separator in the py code, that tells the program that this key is an exception! <br>
 if the separator is '_' , then we will be placing each element in the list(value) on each cell to the right
 <table style="width:100%">
